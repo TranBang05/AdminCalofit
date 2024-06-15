@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminFe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3672b7c736447f01823427594e668e772b22d7d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf862df53193bd0000e1bee7ee6a69adaeae943")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminFe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminFe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
